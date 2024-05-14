@@ -19,7 +19,7 @@ jobs:
         cd ./markdown/.vitepress/dist
         echo 'nails.leix.wang' > CNAME
         git init
-        git config user.name "FTA"
+        git config user.name "Build work web for nails."
         git config user.email "nails@leix.wang"
         git add -A
         git commit -m 'deploy'
