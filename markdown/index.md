@@ -11,14 +11,14 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /nails/tools
+      link: /nails/plan
     # - theme: alt
     #   text: View on GitHub
     #   link: https://github.com/vuejs/vitepress
 
-features:
-  - title:  常用工具
-    details: 常用工具
-    link: /nails/tools
+# features:
+#   - title:  常用工具
+#     details: 常用工具
+#     link: /nails/plan
 
 ---
