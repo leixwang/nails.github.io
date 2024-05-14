@@ -1,0 +1,21 @@
+{
+  "name": "nails",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:leixwang/nails.github.io.git",
+  "author": "Richard <richard@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev markdown --host 0.0.0.0",
+    "build": "vitepress build markdown",
+    "serve": "vitepress serve markdown"
+  },
+  "devDependencies": {
+    "less": "^4.2.0",
+    "markdown-it-mathjax3": "^4.3.2",
+    "mermaid": "^10.9.0",
+    "vitepress": "^1.1.4",
+    "vitepress-plugin-mermaid": "^2.0.16"
+  },
+  "type": "module"
+}
