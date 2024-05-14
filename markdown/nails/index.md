@@ -9,6 +9,14 @@
 
 ## 商品模块
 
+1级商品($39.9),
+
+2级商品($29.9),
+
+3级商品($19.9),
+
+4级商品($9.9),
+
 ### 商品采购
 
 1. 东北王 (质量中上, 价格中高)
@@ -17,20 +25,32 @@
 
 ### 商品包装
 
+#### 盒子
 
+1. 盒子2元, 需要底卡, 要有size, 还有文案 (Designed by FTANails in New York Assembled in China.)
+2. 盒子1.5元, 需要底卡, 要有size, 还有文案 (Designed by FTANails in New York Assembled in China.)
+3. 盒子1元, 需要底卡, 要有size, 还有文案 (Designed by FTANails in New York Assembled in China.)
+
+
+
+
+#### 袋子
+
+1. 袋子1元, 需要底卡, 要有size, 还有文案 (Designed by FTANails in New York Assembled in China.)
+2. 袋子0.5元, 需要底卡, 要有size, 还有文案 (Designed by FTANails in New York Assembled in China.)
 
 
 
 #### 商品商标
 
-1. 底卡设计
+1. 底卡设计(盒子和袋子)
 	1. 商标和logo
 	2. 需要有size [L, M, S]
 	3. 需要增加文案 (Designed by FTANails in New York Assembled in China.)
 
 #### 商品配品
 
-1. 果冻胶
+1. 果冻胶质量好的
 
 ### 快递包装
 
@@ -40,6 +60,10 @@
 4. 快递袋
 5. 封口胶条
 
+
+##### 封口胶条
+
+需要设置logo. 用于封装纸盒的封口.
 
 
 
@@ -58,40 +82,6 @@
 2. FBA转运物流 (欧洲空派大陆飞， 单价50.5 ，私人地址 +2/KG   ，时效10-12天左右 )
 3. 递四方维转运物流(4px)
 
-
-
-
-## 销售模块
-
-已经开通 飞书 广告代理商
-
-
-### tiktok广告
-
-### FB广告
-
-### ins广告
-
-### linkedin广告
-
-
-### Google广告
-
-### twiter广告
-
-### vk广告
-
-### youtube广告
-
-
-### reddit广告
-
-### Discord广告
-
-### threads广告
-
-
-### 邮件广告
 
 
 
