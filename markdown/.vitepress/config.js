@@ -113,8 +113,10 @@ export default withMermaid({
         collapsible: true,
         collapsed: true,
         items: [
-          { text: '工作模块', link: '/nails/plan' },
-          { text: '工作平台', link: '/nails/shop' },
+          { text: '整体架构', link: '/nails/' },
+          { text: '电商平台', link: '/nails/shop' },
+          { text: '广告平台', link: '/nails/ad' },
+          { text: '快递物流', link: '/nails/express' },
           { text: '常用工具', link: '/nails/tools' },
         ]
       },
