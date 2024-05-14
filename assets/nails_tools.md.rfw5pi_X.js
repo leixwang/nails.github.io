@@ -1,0 +1,1 @@
+import{j as t,c as e,b as a}from"./chunks/framework.CBrWt_24.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"nails/tools.md","filePath":"nails/tools.md","lastUpdated":1715702327000}'),o={name:"nails/tools.md"};function s(n,r,c,l,i,d){return a(),e("div")}const m=t(o,[["render",s]]);export{_ as __pageData,m as default};
