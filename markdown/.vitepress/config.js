@@ -120,6 +120,24 @@ export default withMermaid({
           { text: '常用工具', link: '/nails/tools' },
         ]
       },
+      {
+        text: '出货单',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          { text: '0626王磊出货单', link: '/huodan/0626-wl' },
+          { text: '0716王颖出货单', link: '/huodan/0716-wy' },
+        ]
+      },
+      {
+        text: '开发文档',
+        collapsible: true,
+        collapsed: true,
+        items: [
+          { text: '电商平台模块', link: '/software/' },
+          { text: '数据库设计', link: '/software/db' },
+        ]
+      },
     ],
 		
 		footer: {

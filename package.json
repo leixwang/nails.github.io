@@ -13,8 +13,8 @@
   "devDependencies": {
     "less": "^4.2.0",
     "markdown-it-mathjax3": "^4.3.2",
-    "mermaid": "^10.9.0",
-    "vitepress": "^1.1.4",
+    "mermaid": "^10.9.1",
+    "vitepress": "^1.2.2",
     "vitepress-plugin-mermaid": "^2.0.16"
   },
   "type": "module"
