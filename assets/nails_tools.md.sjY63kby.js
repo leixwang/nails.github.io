@@ -1,0 +1,1 @@
+import{j as t,c as e,b as a}from"./chunks/framework.CWFr0Pkc.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"nails/tools.md","filePath":"nails/tools.md","lastUpdated":1721998869000}'),o={name:"nails/tools.md"};function s(n,r,c,l,i,d){return a(),e("div")}const m=t(o,[["render",s]]);export{_ as __pageData,m as default};
