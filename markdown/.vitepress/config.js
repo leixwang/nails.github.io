@@ -136,6 +136,11 @@ export default withMermaid({
         items: [
           { text: '电商平台模块', link: '/software/' },
           { text: '数据库设计', link: '/software/db' },
+          { text: '电商平台 chatGPT 方案', link: '/software/ider' },
+          { text: '服务器开发', link: '/software/go' },
+          { text: 'SEO 开发', link: '/software/seo' },
+          { text: 'API 说明文档', link: '/software/api' },
+          { text: '开发常用的工具', link: '/software/tools' },
         ]
       },
     ],
